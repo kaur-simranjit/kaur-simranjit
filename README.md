@@ -8,9 +8,8 @@ I am a passionate and dedicated aspiring data analyst. I am always engaged in di
 *	💻 <b>Python:</b> Fluent in coding with Python, focusing on data analysis and visualization with Pandas, NumPy, Matplotlib.
 
 ### 🚀 Projects
-<b>Sales Analysis</b>
 
-https://github.com/kaur-simranjit/kaur-simranjit/assets/109523596/36932133-fa9d-45be-aeb0-1e325f65616b
+https://github.com/kaur-simranjit/kaur-simranjit/assets/109523596/438c1000-d022-44f8-ad74-6082c5014d7c
 
 ### 🌐 Let's Connect!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kaur-simranjit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/simranj-kaur/)  
