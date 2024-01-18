@@ -19,8 +19,7 @@ I am a passionate and dedicated aspiring data analyst. I am always engaged in di
 Explore my repositories for detailed explanation of my projects😊.
 
 ### 🌐 Let's Connect!
-📧 Feel free to reach out to me via LinkedIn or at ks.kaursimranjit@gmail.com
-<br>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/simranj-kaur/)  
 
 
