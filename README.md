@@ -16,5 +16,10 @@ I am a passionate and dedicated aspiring data analyst. I am always engaged in di
 
 ![rfm_dashboard](https://github.com/kaur-simranjit/kaur-simranjit/assets/109523596/67019566-2595-4ca6-a449-893d77678870)
 
+Explore my repositories for detailed 
+
 ### 🌐 Let's Connect!
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kaur-simranjit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/simranj-kaur/)  
+📧 Feel free to reach out to me via LinkedIn or at ks.kaursimranjit@gmail.com
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/simranj-kaur/)  
+
+
