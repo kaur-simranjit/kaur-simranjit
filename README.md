@@ -7,8 +7,10 @@ I am a passionate and dedicated aspiring data analyst. I am always engaged in di
 <ul style="list-style-type:disc">
   <li>📈 <b>Advanced Excel:</b> Proficient in utilizing Excel for data cleaning, analysis, and visualization.</li>
   <li>🛢 <b>SQL:</b> Skilled in querying databases, managing data, and ensuring database integrity.</li>
-  <li>📶 <b>Power BI:</b> Proficient in creating impactful reports and dashboards for effective data communication.</li>
-  <li>💻 <b>Python:</b> Fluent in coding with Python, focusing on data analysis and visualization with Pandas, NumPy, Matplotlib.</li>
+  <li>📶 <b>Power BI:</b> Proficient in creating impactful reports and dashboards for 
+    effective data communication.</li>
+  <li>💻 <b>Python:</b> Fluent in coding with Python, focusing on data analysis and 
+    visualization with Pandas, NumPy, Matplotlib.</li>
   </ul>
   </p>
 
