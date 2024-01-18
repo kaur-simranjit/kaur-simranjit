@@ -19,9 +19,3 @@ I am a passionate and dedicated aspiring data analyst. I am currently working on
 ![rfm_dashboard](https://github.com/kaur-simranjit/kaur-simranjit/assets/109523596/67019566-2595-4ca6-a449-893d77678870)
 
 Explore my repositories for detailed explanation of my projects😊.
-
-### 🌐 Let's Connect!
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/simranj-kaur/)  
-
-
