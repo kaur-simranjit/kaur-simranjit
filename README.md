@@ -2,7 +2,7 @@
 I am a passionate and dedicated aspiring data analyst. I am always engaged in diverse projects that allow me to apply and enhance my skills in the dynamic field of data analysis.
 
 ### 🎓 Skills
-* 📈 <b>Advanced Excel:</b> Proficient in utilizing Excel for data cleaning, analysis, and visualization.
+* 📈 <b>Advanced Excel:</b> Proficient in utilizing Excel for data cleaning, analysis, and visualization. <img src="![stats-on-laptop](https://github.com/kaur-simranjit/kaur-simranjit/assets/109523596/38537ad6-cbb5-40d4-bda5-93a3feda70c7)" align="right">
 *	🛢 <b>SQL:</b> Skilled in querying databases, managing data, and ensuring database integrity.
 *	📶 <b>Power BI:</b> Proficient in creating impactful reports and dashboards for effective data communication.
 *	💻 <b>Python:</b> Fluent in coding with Python, focusing on data analysis and visualization with Pandas, NumPy, Matplotlib.
