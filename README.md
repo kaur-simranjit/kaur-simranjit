@@ -1,5 +1,5 @@
 ### Hi, I’m Simran👋
-I am a passionate and dedicated aspiring data analyst. I am always engaged in diverse projects that allow me to apply and enhance my skills in the dynamic field of data analysis.
+I am a passionate and dedicated aspiring data analyst. I am currently working on hands-on projects, allowing me to apply and enhance my skills in the dynamic field of data analysis.
 
 ### 🎓 Skills
 <ul style="list-style-type:disc">
