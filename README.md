@@ -8,9 +8,13 @@ I am a passionate and dedicated aspiring data analyst. I am always engaged in di
 *	💻 <b>Python:</b> Fluent in coding with Python, focusing on data analysis and visualization with Pandas, NumPy, Matplotlib.
 
 ### 🚀 Projects
-<h5>Sales Analysis</h5>
+<h3>Sales Analysis</h3>
 
 ![sales_dashboard](https://github.com/kaur-simranjit/kaur-simranjit/assets/109523596/ef325a44-9201-40fb-9670-be3cf2bf6a4f)
+
+<h3>RFM Analysis and Customer Segmentation</h3>
+
+![rfm_dashboard](https://github.com/kaur-simranjit/kaur-simranjit/assets/109523596/67019566-2595-4ca6-a449-893d77678870)
 
 ### 🌐 Let's Connect!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kaur-simranjit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/simranj-kaur/)  
