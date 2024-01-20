@@ -1,5 +1,5 @@
 ### Hi, I’m Simran👋
-I am an aspiring data analyst. I am currently working on hands-on projects, allowing me to apply and enhance my skills in the dynamic field of data analysis.
+I am an aspiring data analystI have worked on personal projects, enabling me to extract valuable patterns and trends. I am currently looking for a data analytics internship where I can apply and refine the skills I’ve been learning and practicing.
 
 ### 🎓 Skills
 <ul style="list-style-type:disc">
