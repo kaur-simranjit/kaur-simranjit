@@ -1,5 +1,5 @@
 ### Hi, I’m Simran👋
-I am an aspiring data analyst. I have worked on personal projects, enabling me to extract valuable patterns and trends. I am currently looking for a data analytics internship where I can apply and refine the skills I’ve been learning and practicing.
+I am an aspiring Data Analyst and currently pursuing my BSc degree in Computer Science. 
 
 ### 🎓 Skills
 <ul style="list-style-type:disc">
