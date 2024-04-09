@@ -1,5 +1,5 @@
 ### Hi, I’m Simran👋
-I am an aspiring Data Analyst and currently pursuing my BSc degree in Computer Science. 
+I am an aspiring Data Analyst. 
 
 ### 🎓 Skills
 <ul style="list-style-type:disc">
