@@ -18,4 +18,4 @@ I am an aspiring Data Analyst currently pursuing BSc degree in Computer Science.
 
 ![rfm_dashboard](https://github.com/kaur-simranjit/kaur-simranjit/assets/109523596/67019566-2595-4ca6-a449-893d77678870)
 
-Explore my repositories for detailed explanation of my projects😊.
+
