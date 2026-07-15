@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I am Simran</h1>
 
-I graduated from Algoma University this April 2026 with Cum Laude, in Computer Science. Before that, a diploma in Computing from GNA University in India. Somewhere in between I picked up a habit: I don't trust a number until I've cleaned the mess it came from.
+I graduated from Algoma University this April with Cum Laude, in Computer Science. Before that, a diploma in Computing from GNA University in India. Somewhere in between I picked up a habit: I don't trust a number until I've cleaned the mess it came from.
 
 Two projects taught me most of what I know. One took $513.7K in transactions and 946 customers and turned them into five segments — the loyal ones, the ones about to walk away, the ones worth chasing. The other took two years of sales records, 34,866 of them, and found where the 24.6% growth actually came from (hint: it wasn't evenly spread across four countries).
 
@@ -10,6 +10,7 @@ Right now: applying, building, and answering messages faster than I probably sho
   <a href="https://www.linkedin.com/in/simranj-kaur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ks.kaursimranjit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
+
 
 ### 🛠️ Tech Stack
 
@@ -45,4 +46,3 @@ Right now: applying, building, and answering messages faster than I probably sho
 
 
 946 customers. $513.7K in transactions. I built RFM scores with window functions and split the base into five tiers. Loyal customers turned out to be the smallest group and the biggest earner — $167.3K, almost a third of total revenue. On the other end, 210 customers hadn't bought anything in an average of 49.6 days and were sitting on $142.8K in past revenue. That list went straight to the retention plan.
-
