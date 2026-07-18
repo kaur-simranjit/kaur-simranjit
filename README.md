@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I am Simran</h1>
 
-I graduated from Algoma University this April with Cum Laude, in Computer Science. Before that, a diploma in Computing from GNA University in India. Somewhere in between I picked up a habit: I don't trust a number until I've cleaned the mess it came from.
+I graduated from Algoma University this April with Cum Laude, in Computer Science. Before that, a diploma in Computing from GNA University in India. Somewhere along the way I realized I get a weird amount of satisfaction out of watching a pattern show up in a chart that wasn't obvious five minutes earlier.
 
 Two projects taught me most of what I know. One took $513.7K in transactions and 946 customers and turned them into five segments — the loyal ones, the ones about to walk away, the ones worth chasing. The other took two years of sales records, 34,866 of them, and found where the 24.6% growth actually came from (it wasn't evenly spread across four countries).
 
