@@ -6,6 +6,12 @@ Two projects taught me most of what I actually know. In one, I took 946 customer
 
 Right now I'm applying to jobs and building things.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/simranj-kaur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ks.kaursimranjit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/kaur-simranjit/kaur-simranjit/blob/main/resume/Simranjit_Kaur.pdf"><img src="https://img.shields.io/badge/Resume-D32F2F?style=flat&logo=adobeacrobatreader&logoColor=white"></a>
+</p>
+
 
 ## 💻 Tech Stack
 
@@ -60,11 +66,3 @@ Right now I'm applying to jobs and building things.
 [View Repository →](https://github.com/kaur-simranjit/RFM-Analysis-and-Customer-Segmentation)
 
 946 customers. $513.7K in transactions. I built RFM scores with window functions and split the base into five tiers. Loyal customers turned out to be the smallest group and the biggest earner — $167.3K, almost a third of total revenue. On the other end, 210 customers hadn't bought anything in an average of 49.6 days and were sitting on $142.8K in past revenue. That list went straight to the retention plan.
-
-
-## 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/simranj-kaur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ks.kaursimranjit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-</p>
