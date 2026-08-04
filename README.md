@@ -9,7 +9,7 @@ Right now I'm applying to jobs and building things.
 <p align="center">
   <a href="https://www.linkedin.com/in/simranj-kaur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ks.kaursimranjit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/kaur-simranjit/kaur-simranjit/blob/main/resume/Simranjit_Kaur.pdf"><img src="https://img.shields.io/badge/Resume-D32F2F?style=flat&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://github.com/kaur-simranjit/kaur-simranjit/blob/main/Simranjit_Kaur.pdf"><img src="https://img.shields.io/badge/Resume-D32F2F?style=flat&logo=adobeacrobatreader&logoColor=white"></a>
 </p>
 
 
