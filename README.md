@@ -4,7 +4,7 @@ I finished my Computer Science degree at Algoma University this April. Before th
 
 Two projects taught me most of what I actually know. In one, I took 946 customers and $513.7K in transactions and split them into five groups, so I could tell who was loyal, who was about to leave, and who was worth chasing. In the other, I went through 34,866 sales records from two years and figured out where a 24.6% jump in revenue actually came from, since it wasn't spread evenly across the four countries.
 
-Right now I'm applying to jobs and building things.
+Right now I'm looking for data-related positions and building things.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simranj-kaur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
