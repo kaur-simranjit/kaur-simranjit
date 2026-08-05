@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I am Simran 👋 </h1>
 
-I finished my Computer Science degree at Algoma University this April with a 91.9% average, Cum Laude. Before that, I did a diploma in Computing from GNA University in India. Somewhere along the way I noticed I actually enjoy the moment when a pattern shows up in a chart that wasn't there five minutes earlier.
+I finished my Computer Science degree at Algoma University this April. Before that, I did a diploma in Computing from GNA University in India. Somewhere along the way I noticed I actually enjoy the moment when a pattern shows up in a chart that wasn't there five minutes earlier.
 
 Two projects taught me most of what I actually know. In one, I took 946 customers and $513.7K in transactions and split them into five groups, so I could tell who was loyal, who was about to leave, and who was worth chasing. In the other, I went through 34,866 sales records from two years and figured out where a 24.6% jump in revenue actually came from, since it wasn't spread evenly across the four countries.
 
